@@ -10,6 +10,6 @@
 
 --- 
 ### :fire About Me :
-- :memo contacto: **matimichaux2@gamil.com**
-- :memo Me gusta : Javascript and Java 
-- :memo Estoy estudiando HTML and CSS 
+- :memo: contacto: **matimichaux2@gamil.com**
+- :memo: Me gusta : Javascript and Java 
+- :memo: Estoy estudiando HTML and CSS 
