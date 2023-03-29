@@ -14,7 +14,7 @@
 ### :fire: About Me : <br>         
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <ol type="I" > 
-  ---
+  
 </div> 
   <li>
     - :memo: contacto:**matimichaux2@gamil.com** 
@@ -27,9 +27,9 @@
   </li>
   
 </ol>
-  ---
+  
 <div align="left">
-
+---
 ### :pencil2: Lenguages and Tools : <br>
    <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
