@@ -29,7 +29,7 @@
 </ol>
   
 <div align="left">
----
+
 ### :pencil2: Lenguages and Tools : <br>
    <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
