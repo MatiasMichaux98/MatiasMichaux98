@@ -8,18 +8,28 @@
         por la tecnología ,estudiante de la Tecnicatura Universitaria en programación </h3>
 </div>
 
+---
 
 --- 
-<div id="header" align="right">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350">
-</div>
-### :fire: About Me :                         
-- :memo: contacto: **matimichaux2@gamil.com**
-- :memo: Me gusta : Javascript and Java 
-- :memo: Estoy estudiando HTML and CSS 
-
+### :fire: About Me : <br>         
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<ol type="I" > 
+  ---
+</div> 
+  <li>
+    - :memo: contacto:**matimichaux2@gamil.com** 
+  </li>
+  <li>
+    - :memo: Me gusta : Javascript and Java
+  </li>
+  <li>
+    - :memo: Estoy estudiando HTML and CSS 
+  </li>
+  
+</ol>
 ---
 <div align="left">
+
     <h3>###:pencil2: Lenguages and Tools </h3>
    <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
