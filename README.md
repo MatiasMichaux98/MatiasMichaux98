@@ -8,8 +8,12 @@
         por la tecnología ,estudiante de la Tecnicatura Universitaria en programación </h3>
 </div>
 
+<div>
+    (img align="right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/116207...")
+</div>
+
 --- 
-### :fire: About Me :                         (img align="right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/116207...")
+### :fire: About Me :                         
 - :memo: contacto: **matimichaux2@gamil.com**
 - :memo: Me gusta : Javascript and Java 
 - :memo: Estoy estudiando HTML and CSS 
