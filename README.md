@@ -13,12 +13,11 @@
 --- 
 ### :fire: About Me : <br>         
 <p align="right">
-    <img  width="250" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" >
+    <img  width="250" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"float:right" >
 </p>
 <div align="left">
 
 <ol type="I" >   
- 
   <li>
     - :memo: contacto:**matimichaux2@gamil.com** 
   </li>
@@ -31,7 +30,7 @@
   
 </ol>
 </div>  
-
+---
 
 ### :pencil2: Lenguages and Tools : <br>
    <div>
