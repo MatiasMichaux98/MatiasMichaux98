@@ -12,7 +12,7 @@
 
 --- 
 ### :fire: About Me : <br>         
-  <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+  <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 <ol type="I" >   
 </div> 
@@ -48,7 +48,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatiasMichaux98&theme=neon&border_radius=20&locale=es)](https://git.io/streak-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasMichaux98&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
---- 
+<br>
 <p align="center">
    <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31jnhplcd3ns3r6tnutxpztqhtie&cover_image=true&theme=default&show_offline=false&background_color=030303&interchange=false&bar_color_cover=true">
 </p>
