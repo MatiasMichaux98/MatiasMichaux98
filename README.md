@@ -50,7 +50,7 @@
 [![MatiasMichaux98 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 --- 
     <p align="center">
-    <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?  uid=31jnhplcd3ns3r6tnutxpztqhtie&cover_image=true&theme=default&show_offline=false&background_color=030303&interchange=false&bar_color_cover=true">
+    <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31jnhplcd3ns3r6tnutxpztqhtie&cover_image=true&theme=default&show_offline=false&background_color=030303&interchange=false&bar_color_cover=true (https://github.com/kittinan/spotify-github-profile)">
    </p>
   
   
