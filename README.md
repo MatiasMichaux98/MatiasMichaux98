@@ -1,7 +1,4 @@
-### Hi there 👋
-<p align="center">
-    <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31jnhplcd3ns3r6tnutxpztqhtie&cover_image=true&theme=default&show_offline=false&background_color=030303&interchange=false&bar_color_cover=true">
-</p>
+### Hi everyone 👋
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdmMTkyYWVhZTNiNDJlYWYyODk4NGUyMWQ5MTdkNzQyZDgwMjU0NiZjdD1n/9CffOPMLx0Hf2/giphy.gif" width="350">
@@ -15,9 +12,9 @@
 
 --- 
 ### :fire: About Me : <br>         
-  <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966">
-<ol type="I" > 
-  
+  <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+
+<ol type="I" >   
 </div> 
   <li>
     - :memo: contacto:**matimichaux2@gamil.com** 
@@ -49,13 +46,16 @@
 ### My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatiasMichaux98&theme=neon&border_radius=20&locale=es)](https://git.io/streak-stats)
-
-[![MatiasMichaux98 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasMichaux98&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 --- 
 <p align="center">
    <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31jnhplcd3ns3r6tnutxpztqhtie&cover_image=true&theme=default&show_offline=false&background_color=030303&interchange=false&bar_color_cover=true">
 </p>
-  
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
   
     
 
