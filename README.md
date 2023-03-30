@@ -12,7 +12,9 @@
 
 --- 
 ### :fire: About Me : <br>         
-  ![87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3](https://user-images.githubusercontent.com/112663570/228977022-aaf6180f-4388-47c3-9bdc-4ec23cfcb23a.gif)
+<p align="right">
+    <img  width="250" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" >
+</p>
 
 
 <ol type="I" >   
