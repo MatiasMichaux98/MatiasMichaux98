@@ -13,10 +13,10 @@
 --- 
 ### :fire: About Me : <br> 
   <p align="right">
-    <img  width="130"  src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="float:right">
+    <img  width="250" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="float:right">
 </p>
 <ol type="I" >   
-</div> 
+<div align="left">
   <br><li>
     - :memo: brcontacto:**matimichaux2@gamil.com** 
   </li>
@@ -28,8 +28,7 @@
   </li>
   
 </ol>
----
-<div align="left">
+</div> 
 ---
 
 ### :pencil2: Lenguages and Tools : <br>
