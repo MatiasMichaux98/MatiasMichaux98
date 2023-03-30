@@ -3,16 +3,16 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdmMTkyYWVhZTNiNDJlYWYyODk4NGUyMWQ5MTdkNzQyZDgwMjU0NiZjdD1n/9CffOPMLx0Hf2/giphy.gif" width="350">
     <h1 align="center">:fire: HI I´M MATIAS MICHAUX</h1>
-    <H3 align="center"> Bienvenidos a mi perfil </H3>
-    <h3 align="center"> Soy un chico Argentino de 24 años apasionado 
-        por la tecnología ,estudiante de la Tecnicatura Universitaria en programación </h3>
+    <H3 align="center"> Bienvenidos a mi GitHub </H3>
+    <h3 align="center"> Soy un chico de 24 años apasionado 
+        por el mundo de la tecnología y la programación. </h3>
 </div>
 
 ---
 
 --- 
 ### :fire: About Me : <br>         
-  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966">
 <ol type="I" > 
   
 </div> 
@@ -20,10 +20,10 @@
     - :memo: contacto:**matimichaux2@gamil.com** 
   </li>
   <li>
-    - :memo: Me gusta : Javascript and Java
+    - :memo: Tengo Conocimientos en : Java y Python
   </li>
   <li>
-    - :memo: Estoy estudiando HTML and CSS 
+    - :memo: Actualmente estoy aprendiendo html , CSS y JavaScript
   </li>
   
 </ol>
