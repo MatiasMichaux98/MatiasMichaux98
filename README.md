@@ -17,7 +17,7 @@
 <ol type="I" >   
 <div align="left">
   <br><li>
-    - :memo: brcontacto:**matimichaux2@gamil.com** 
+    - :memo: contacto:**matimichaux2@gamil.com** 
   </li>
   <li>
     - :memo: Tengo Conocimientos en : Java y Python
