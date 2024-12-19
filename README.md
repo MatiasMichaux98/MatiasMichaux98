@@ -1,58 +1,59 @@
-### Hi everyone 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matias+Michaux!;" />
+</h1>
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdmMTkyYWVhZTNiNDJlYWYyODk4NGUyMWQ5MTdkNzQyZDgwMjU0NiZjdD1n/9CffOPMLx0Hf2/giphy.gif" width="350">
-    <h1 align="center">:fire: HI I´M MATIAS MICHAUX</h1>
-    <H3 align="center"> Bienvenidos a mi GitHub </H3>
-    <h3 align="center"> Soy un chico de 24 años apasionado 
-        por el mundo de la tecnología y la programación. </h3>
+   <p>Soy desarrollador de software con experiencia en Python, Django, React y JavaScript. Me apasiona crear soluciones tecnológicas que sean eficientes y fáciles de usar.</p>
 </div>
 
 ---
 
 --- 
 ### :fire: About Me : <br> 
-  <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
-<ol type="I" >   
-<div align="left">
-  <br><li>
-    - :memo: contacto:**matimichaux2@gamil.com** 
-  </li>
-  <li>
-    - :memo: Tengo Conocimientos en : Java y Python
-  </li>
-  <li>
-    - :memo: Actualmente estoy aprendiendo html , CSS y JavaScript
-  </li>
-  
+<ol type="I">
+  <div align="left">
+    <br><li>
+      - :memo: **Contacto**: <strong>matimichaux2@gmail.com</strong>
+    </li>
+    <li>
+      - :memo: **Conocimientos** en: <strong>Python/Django</strong> y <strong>React</strong>.
+    </li>
+    <li>
+      - :memo: Actualmente estoy aprendiendo **Docker** y ampliando mis conocimientos en **bases de datos**.
+    </li>
+    <li>
+      - :memo: **Intereses**: Desarrollo de aplicaciones web
+    </li>
+  </div>
 </ol>
-</div> 
----
 
-### :pencil2: Lenguages and Tools : <br>
-   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-   </div>
-  <br>
+
+<div> 
+    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=python,django,javascript,java,mysql" /><br>
+</div>
+</div>
+
+
+
+<br/>
+<hr/>
    
 ---
-### My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatiasMichaux98&theme=neon&border_radius=20&locale=es)](https://git.io/streak-stats)
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasMichaux98)](https://github.com/MatiasMichaux98/github-readme-stats)
----
+<section id="proyectos">
+  <h2>🚀 Proyectos</h2>
+ <p>En mi perfil de GitHub encontrarás  proyectos centrados principalmente en **aplicaciones web**. Estos proyectos son el resultado de mi interés por construir soluciones escalables y eficientes utilizando tecnologías modernas como **Django**, **React** y **Python**. A través de estos repositorios, busco mejorar mis habilidades de desarrollo web:</p>
+  
+  <ul>
+    <li><strong><a href="https://github.com/MatiasMichaux98/AgendaPoo" target="_blank">Agenda POO</a></strong>: Esta es una agenda de contactos desarrollada en Python utilizando Programación Orientada a Objetos (POO) y una base de datos para almacenar y gestionar la información de los contactos. El proyecto implementa una estructura modular basada en clases y objetos, lo que facilita su expansión y mantenimiento. Los usuarios pueden agregar, editar, eliminar y buscar contactos, todo almacenado de manera eficiente en la base de datos.</li>
+    <li><strong><a href="https://github.com/MatiasMichaux98/blog" target="_blank">Blog 1</a></strong>: Este es un blog completo desarrollado con Python/Django en el backend y React en el frontend, utilizando Tailwind CSS para un diseño moderno y responsive. El proyecto emplea PostgreSQL como sistema de gestión de bases de datos para almacenar de manera eficiente y segura los posts, usuarios y otros datos asociados. Los usuarios pueden crear, editar y eliminar sus propios posts, así como gestionar su perfil personal. Cada usuario tiene un perfil donde puede gestionar su información personal y ver los posts que ha creado.</li>
+  </ul>
+</section>
 <br>
-<p align="center">
-   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31jnhplcd3ns3r6tnutxpztqhtie&cover_image=true&theme=default&show_offline=false&background_color=030303&interchange=false&bar_color_cover=true">
-</p>
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
