@@ -3,7 +3,7 @@
 </h1>
 
 <div id="header" align="center">
-   <p>Soy desarrollador de software con experiencia en Python, Django, React y JavaScript. Me apasiona crear soluciones tecnológicas que sean eficientes y fáciles de usar.</p>
+   <p>Soy desarrollador de software con experiencia en Python, Django, C#(.NET) con Angular. Me apasiona crear soluciones tecnológicas que sean eficientes y fáciles de usar.</p>
 </div>
 
 ---
