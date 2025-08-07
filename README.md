@@ -17,7 +17,7 @@
       - :memo: **Contacto**: <strong>matimichaux2@gmail.com</strong>
     </li>
     <li>
-      - :memo: **Conocimientos** en: <strong>Python/Django</strong> y <strong>React</strong>.
+      - :memo: **Conocimientos** en: <strong>Python/Django</strong> y <strong>C#(.NET) con Angular(Basico)</strong>.
     </li>
     <li>
       - :memo: Actualmente estoy aprendiendo **Docker** y ampliando mis conocimientos en **bases de datos**.
